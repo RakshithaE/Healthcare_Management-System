@@ -1,0 +1,21 @@
+body {
+  background-color: #ffe4e1;
+}
+
+.react-calendar {
+  background: #fff0f5 !important;
+  border: 1px solid #ffc1cc !important;
+}
+
+.react-calendar__tile--active {
+  background: #ff9999 !important;
+  color: white !important;
+}
+
+input, select, button {
+  outline: none;
+}
+
+button:hover {
+  transition: background-color 0.3s;
+}
